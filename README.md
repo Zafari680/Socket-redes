@@ -67,3 +67,8 @@ Puedes usar los siguientes comandos para interactuar con el servidor:
 /desconectar - Desconecta a todos los usuarios del servidor.
 /salir - Desconecta al cliente actual del servidor.
 
+5. Desconexión
+Para desconectarte del servidor, puedes usar el comando /salir o simplemente cerrar la ventana del cliente.
+
+6. Concurrencia
+El servidor soporta múltiples clientes conectados al mismo tiempo. Cada cliente se maneja en un hilo separado, lo que permite que los mensajes sean enviados y recibidos simultáneamente sin interferencias.
