@@ -72,3 +72,9 @@ Para desconectarte del servidor, puedes usar el comando /salir o simplemente cer
 
 6. Concurrencia
 El servidor soporta múltiples clientes conectados al mismo tiempo. Cada cliente se maneja en un hilo separado, lo que permite que los mensajes sean enviados y recibidos simultáneamente sin interferencias.
+
+Contribuciones
+Si deseas mejorar este proyecto, por favor crea un pull request o abre un issue con tus sugerencias.
+
+Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
